@@ -1,1 +1,1 @@
-Print("serdarquenchless")
+print("serdarquenchless")
