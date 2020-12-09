@@ -1,2 +1,2 @@
 print("Hello World!!!")
-print("Bu özellik yeni ve çok önemli. İkinci yazıLımcı tarafından yapıldı ve repoya yollandi.")
+print("Bu satir yeni bir özelliği temsil ediyor.")
